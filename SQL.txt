@@ -8,7 +8,7 @@ create table inimised(
 
 --Удаление записи где id=1--
 
-delete inimesed where id=1;
+delete from inimesed where id=1;
 
 --Показать всё из таблицы inimesed--
 
