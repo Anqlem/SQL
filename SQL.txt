@@ -1,8 +1,8 @@
-
+﻿
 --Создание таблицы inimesed--
 
 create table inimised(
-	id int,
+	id int primary key,
 	name varchar(20),
 	age int);
 
