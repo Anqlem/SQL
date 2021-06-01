@@ -1,10 +1,11 @@
-
+﻿
 --Создание таблицы inimesed--
 
-create table inimised(
-	id int,
+create table inimesed(
+	id int primary key auto_increment,
 	name varchar(20),
-	age int);
+	age int
+)
 
 --Удаление записи где id=1--
 
