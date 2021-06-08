@@ -13,3 +13,4 @@ delete from inimesed where id=1;
 --Показать всё из таблицы inimesed--
 
 select * from inimesed;
+
